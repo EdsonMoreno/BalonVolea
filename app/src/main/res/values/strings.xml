@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BalonBolea</string>
+
+    <string name="dificultad">Por favor elija un nivel:</string>
+    <string name="facil">Facil</string>
+    <string name="medio">Medio</string>
+    <string name="dificil">Dificil</string>
+
+    <string name="ayuda">Ayuda</string>
+    <string name="texto_ayuda">
+        El juego consiste en hacer rebotar la pelota con el dedo tantas veces como se pueda
+        sin dejar que toque el suelo \n
+        La pelota rebota en el sentido contrario al que tu oprimas la pantalla \n \n \n\
+        Listo?... vamos a ello
+    </string>
+
+    <string name="volver">Regresar</string>
+</resources>

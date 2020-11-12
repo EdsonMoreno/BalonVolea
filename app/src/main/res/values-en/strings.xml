@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoleiBall</string>
+
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+
+    <string name="ayuda">Help</string>
+
+    <string name="texto_ayuda">
+   The game consists of bouncing the ball with your finger as many times as possible
+        without letting it touch the ground \n
+    The ball bounces in the opposite direction to which you press the screen \n \n \n \n Ready? ... let\'s go!
+    </string>
+
+    <string name="volver">Go back</string>
+
+</resources>
